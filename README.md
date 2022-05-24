@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aryaman720
+- 👀 I’m interested in programming microcontrollers and other modules
+- 💪🏻 I’m currently learning andorid app development
+- 🤝🏻 I’m looking to collaborate on startup projects
+- 📫 reach out to me on aryamansingh.207@gmail.com
