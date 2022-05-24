@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aryaman720
+- 👋 Hi, I’m Aryaman!
 - 👀 I’m interested in programming microcontrollers and other modules
 - 💪🏻 I’m currently learning andorid app development
 - 🤝🏻 I’m looking to collaborate on startup projects
